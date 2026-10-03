@@ -1,6 +1,6 @@
 # DeepFake-Detection .
 
-This Repository i used for upload deep fake 
+This Repository i used for upload deep fa
 
 # Deepfake Detection Model
 
