@@ -1,6 +1,6 @@
 # DeepFake-Detection .
 
-This Repository i used for upl
+This Repository i used for 
 
 # Deepfake Detection Model
 
