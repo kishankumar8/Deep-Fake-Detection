@@ -1,6 +1,6 @@
 # DeepFake-Detection .
 
-This Repository i used for 
+This Repository i used 
 
 # Deepfake Detection Model
 
