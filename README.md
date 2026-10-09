@@ -1,6 +1,6 @@
 # DeepFake-Detection .
 
-This Repository i us
+This Repository i 
 
 # Deepfake Detection Model
 
