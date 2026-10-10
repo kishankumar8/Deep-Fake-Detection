@@ -1,4 +1,4 @@
-# DeepFake
+# DeepFa
 
 # Deepfake Detection Model
 
