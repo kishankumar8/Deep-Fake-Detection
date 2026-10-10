@@ -1,4 +1,4 @@
-# Deepfake Detection Model
+# Deepfake Detection Model .
 
 A machine learning model that classifies media (image, video, or audio) as **Real** or **Fake** using metadata and signal-quality features rather than raw pixel/audio analysis.
 
