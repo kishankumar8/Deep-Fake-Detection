@@ -86,5 +86,3 @@ The model achieves high accuracy on the test split (confusion matrix and accurac
 - Could be extended with a CNN/RNN pipeline on raw video frames or audio spectrograms for true content-based deepfake detection.
 
 ## License
-
-A
