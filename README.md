@@ -87,4 +87,4 @@ The model achieves high accuracy on the test split (confusion matrix and accurac
 
 ## License
 
-Add a licen
+Add a lic
