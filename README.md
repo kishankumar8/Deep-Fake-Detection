@@ -85,4 +85,3 @@ The model achieves high accuracy on the test split (confusion matrix and accurac
 - No hyperparameter tuning, cross-validation, or regularization scaling was applied (`LogisticRegression` also raised a convergence warning — consider scaling features or increasing `max_iter`).
 - Could be extended with a CNN/RNN pipeline on raw video frames or audio spectrograms for true content-based deepfake detection.
 
-## 
