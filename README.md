@@ -50,7 +50,7 @@ joblib
 Install with:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scik
+pip install pandas numpy matplotlib seaborn sc
 
 ## Usage
 
