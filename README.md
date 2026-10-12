@@ -50,7 +50,7 @@ joblib
 Install with:
 
 ```bash
-pip install pandas numpy matplotlib
+pip install pandas numpy matplotl
 
 ## Usage
 
