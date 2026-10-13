@@ -50,7 +50,7 @@ joblib
 Install with:
 
 ```ba
-pip
+p
 
 ## Usage
 
