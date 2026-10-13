@@ -50,7 +50,7 @@ joblib
 Install with:
 
 ```bash
-pip install pand
+pip install pa
 
 ## Usage
 
