@@ -49,8 +49,7 @@ joblib
 
 Install with:
 
-```
-p
+``
 
 ## Usage
 
