@@ -47,7 +47,7 @@ scikit-learn
 joblib
 ```
 
-Install wit
+Install w
 
 
 ## Usage
