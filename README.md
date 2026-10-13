@@ -50,7 +50,7 @@ joblib
 Install with:
 
 ```bash
-pip insta
+pip ins
 
 ## Usage
 
