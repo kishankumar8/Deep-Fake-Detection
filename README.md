@@ -49,7 +49,6 @@ joblib
 
 Install with:
 
-``
 
 ## Usage
 
